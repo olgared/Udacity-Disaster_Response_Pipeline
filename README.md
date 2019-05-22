@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-In this Project, we use a data set from Figure Eight containing real messages that were sent during disaster events. We create a machine learning pipeline to categorize these events so the messages could be send to an appropriate disaster relief agency.
+In this Project, we use a data set from [Figure Eight](https://www.figure-eight.com/) containing real messages that were sent during disaster events. We create a machine learning pipeline to categorize these events so the messages could be send to an appropriate disaster relief agency.
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
@@ -20,7 +20,7 @@ In this Project, we use a data set from Figure Eight containing real messages th
   + template
   + master.html  # main page of web app
   + go.html  # classification result page of web app
-  +run.py  # Flask file that runs app
+  + run.py  # Flask file that runs app
 
 - data
   + disaster_categories.csv  # data to process 
